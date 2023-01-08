@@ -1,3 +1,5 @@
+// This contains a C program of Simple Queue using Linked List.
+
 #include <stdio.h>
 #include <stdlib.h>
 struct node
