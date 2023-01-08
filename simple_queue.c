@@ -1,3 +1,5 @@
+// This contains a C program of Simple Queue using Array.
+
 #include <stdio.h>
 
 int Queue[100];
