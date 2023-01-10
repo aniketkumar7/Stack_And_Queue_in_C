@@ -1,3 +1,5 @@
+This is a C program of implementation of Stack using Array. 
+
 #include <stdio.h>
 #include <stdlib.h>
 int stack[50];
