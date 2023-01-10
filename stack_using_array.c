@@ -1,4 +1,4 @@
-This is a C program of implementation of Stack using Array. 
+// This is a C program of implementation of Stack using Array. 
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -6,6 +6,7 @@ int stack[50];
 int top = -1;
 int n;
 
+//To insert an element in stack
 void push(void)
 {
     if (top == n - 1)
@@ -18,6 +19,7 @@ void push(void)
     }
 }
 
+//To delete an element from the Stack
 void pop(void)
 {
     if (top == -1)
@@ -29,6 +31,7 @@ void pop(void)
     }
 }
 
+//To display the elements of the Stack
 void display(void)
 {
     int i;
