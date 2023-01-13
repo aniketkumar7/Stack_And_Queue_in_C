@@ -1,3 +1,5 @@
+// This reposistory contains the source code of implementation of Stack using Linked List in C Language.
+
 #include <stdio.h>
 #include <stdlib.h>
 struct node
