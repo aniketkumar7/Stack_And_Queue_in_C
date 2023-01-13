@@ -9,6 +9,7 @@ struct node
 };
 struct node *Top = NULL;
 
+//to insert element in the stack
 void push(void)
 {
     struct node *New;
@@ -24,6 +25,7 @@ void push(void)
     }
 }
 
+// to delete element from the stack
 void pop(void)
 {
     struct node *Ptr;
@@ -38,6 +40,7 @@ void pop(void)
     }
 }
 
+// to display the elements of the stack
 void display(void)
 {
     struct node *Ptr;
