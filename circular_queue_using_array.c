@@ -84,9 +84,9 @@ int main()
 
     while (c == 10)
     {
-        printf("Enter 1 for Insert in the Queue :  ");
+        printf("Enter 1 for Insert Element in the Queue :  ");
         printf("\n");
-        printf("Enter 2 for Delete the Queue :  ");
+        printf("Enter 2 for Delete Element from the Queue :  ");
         printf("\n");
         printf("Enter 3 for Display the Queue :  ");
         printf("\n");
