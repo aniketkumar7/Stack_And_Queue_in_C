@@ -5,3 +5,6 @@ This repository contains the source code of <br> Implementation of Stack using A
 Also, it contains the source code of <br> Implementation of Simple Queue using Array and <br> Implementation of Queue using Linked List in C Language.
 <br><br>
 It contains the source code of <br> Implementation of Circular Queue using Array in C Language.
+<br>
+<br>
+It contains the source code of <br> Implementation of Doubly Queue using Array in C Language.
