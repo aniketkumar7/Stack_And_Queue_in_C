@@ -2,7 +2,7 @@
 <br><ul>
 <b> This repository contains the source code of </b> <br> <li> Implementation of Stack using Array and <br><li> Implementation of Stack using Linked List in C Language.
 <br><br>
-Also, it contains the source code of <br> <li> Implementation of Simple Queue using Array and <br> <li> Implementation of Queue using Linked List in C Language.
+<strong> Also, it contains the source code of </strong> <br> <li> Implementation of Simple Queue using Array and <br> <li> Implementation of Queue using Linked List in C Language.
 <br><br>
 It contains the source code of <br> <li> Implementation of Circular Queue using Array in C Language.
 <br>
