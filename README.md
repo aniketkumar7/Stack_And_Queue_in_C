@@ -1,4 +1,4 @@
-# Stack And Queue in C
+# Stack And Queue in C Language
 <ul>
 <b> This repository contains the source code of </b> <br> <li> Implementation of Stack using Array and <br><li> Implementation of Stack using Linked List.
 <br><br>
