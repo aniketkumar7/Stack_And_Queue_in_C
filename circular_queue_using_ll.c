@@ -33,7 +33,6 @@ void insert(void)
 }
 
 
-
 // To delete an element from the  circular queue
 
 void delete(void)
