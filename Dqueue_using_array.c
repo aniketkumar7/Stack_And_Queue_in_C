@@ -4,6 +4,11 @@ int DQueue[50];
 int front = -1, rear = -1;
 int n;
 
+
+
+
+// To insert at front end of the Dqueue
+
 void InsertFront(void)
 {
     if(front == 0)
@@ -22,6 +27,10 @@ void InsertFront(void)
     }
 }
 
+
+
+
+// To insert at rear end of the Dqueue
 
 void InsertRear(void)
 {
@@ -42,6 +51,9 @@ void InsertRear(void)
 }
 
 
+
+// To delete from front end of the Dqueue
+
 void DeleteFront(void)
 {
     if(front == -1)
@@ -59,6 +71,9 @@ void DeleteFront(void)
 }
 
 
+
+// To delete from rear end of the Dqueue
+
 void DeleteRear(void)
 {
     if(rear == -1)
@@ -74,6 +89,10 @@ void DeleteRear(void)
         rear = rear - 1;
     }
 }
+
+
+
+// To display the Dqueue
 
 void display(void)
 {
