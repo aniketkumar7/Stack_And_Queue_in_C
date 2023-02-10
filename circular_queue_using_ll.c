@@ -9,6 +9,9 @@ struct node
 };
 struct node *Front = NULL, *Rear = NULL;
 
+
+// To insert an element in the circular queue
+
 void insert(void)
 {
     struct node *New;
@@ -28,6 +31,10 @@ void insert(void)
         Rear->next = Front;
     }
 }
+
+
+
+// To delete an element from the  circular queue
 
 void delete(void)
 {
@@ -51,6 +58,9 @@ void delete(void)
         }
     }
 }
+
+
+// To display the elements in the circular queue
 
 void display(void)
 {
