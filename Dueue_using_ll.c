@@ -8,6 +8,9 @@ struct node
 };
 struct node *f = NULL, *r = NULL;
 
+
+// To insert at rear end of the Dqueue
+
 void insertrear(void)
 {
     struct node *new;
@@ -29,6 +32,9 @@ void insertrear(void)
     }
 }
 
+
+// To insert at front end of the Dqueue
+
 void insertfront(void)
 {
     struct node *new;
@@ -49,6 +55,9 @@ void insertfront(void)
         f = new;
     }
 }
+
+
+// To delete from front end of the Dqueue
 
 void deletefront(void)
 {
@@ -74,6 +83,8 @@ void deletefront(void)
 }
 
 
+// To delete from rear end of the Dqueue
+
 void deleterear(void)
 {
     struct node *ptr;
@@ -97,6 +108,8 @@ void deleterear(void)
     }
 }
 
+
+// To display the Dqueue
 
 void display(void)
 {
