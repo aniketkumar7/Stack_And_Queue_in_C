@@ -7,7 +7,8 @@ int front = -1;
 int n;
 
 
-// To insert a number in the queue
+
+// To insert an element in the circular queue
 
 void insert(void)
 {
@@ -31,7 +32,7 @@ void insert(void)
 }
 
 
-// To delete a number from the queue
+// To delete an element from the  circular queue
 
 void delete(void)
 {
@@ -55,7 +56,7 @@ void delete(void)
 }
 
 
-// To display the number in the queue
+// To display the elements in the circular queue
 
 void display(void)
 {
