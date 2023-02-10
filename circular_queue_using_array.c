@@ -6,6 +6,7 @@ int front = -1;
 // number of elements in queue
 int n;
 
+
 // To insert a number in the queue
 
 void insert(void)
@@ -28,6 +29,7 @@ void insert(void)
         scanf("%d", &Queue[rear]);
     }
 }
+
 
 // To delete a number from the queue
 
@@ -52,6 +54,7 @@ void delete(void)
     }
 }
 
+
 // To display the number in the queue
 
 void display(void)
@@ -72,6 +75,9 @@ void display(void)
         printf(" Element present in Queue is : %d\n", Queue[i]);
     }
 }
+
+
+// main function
 
 int main()
 {
